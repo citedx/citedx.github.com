@@ -1,6 +1,6 @@
 Future home page for the CITE Data Exchange.
 
-Exchange only licensed, citable data sets.
+Exchange openly licensed, citable data sets.
 
 Initial areas of special interest:
 
